@@ -47,14 +47,19 @@
 
 ## INSTALL  ON TERMUX
 ```python
-
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+pip install requests
+git clone --depth=1 https://github.com/JAAT-BRAND/TERMUX-SETUP.git
+cd TERMUX-SETUP
+python3 SET.py
 ```
 
-<p align="center"><img src="./image/carbon.png">
 
 ## TERMUX >
 
-<p align="center"><img src="./image/D1.jpg">
+<p align="center"><img src="./image/JULMI1.jpg">
 <p align="center"><img src="./image/D2.jpg">
 
 ### Tools Languages :
