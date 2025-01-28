@@ -60,7 +60,7 @@ python3 SET.py
 ## TERMUX >
 
 <p align="center"><img src="./image/JULMI1.jpg">
-<p align="center"><img src="./image/D2.jpg">
+<p align="center"><img src="./image/JULMI2.jpg">
 
 ### Tools Languages :
 
